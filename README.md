@@ -10,6 +10,7 @@ IAMSTEFANO and...
 - 🌱 I’m currently learning REACT and Typescript
 - ⚡ I’m looking for a job as Junior Front-end developer, wish me luck!
 - 📫 How to reach me: stefanoare@proton.me
+    Linkedin: https://www.linkedin.com/in/stefanoare/
 <!-- - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ... -->
 
