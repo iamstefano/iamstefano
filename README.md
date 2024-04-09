@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>I am Stefano and...<br><br>🔭 I’m currently working on my programming skills :)<br>🌱 I’m currently learning React and NEXT.js<br>⚡ I’m looking for a job as Junior Front-end developer, wish me luck!<br>📫 How to reach me: stefanoare@proton.me Linkedin: https://www.linkedin.com/in/stefanoare/
+Hi there 👋<br>I am Stefano and...<br><br>🔭 I’m currently working on my programming skills :)<br>🌱 I’m currently learning Typescript & C#<br>⚡ I’m looking for a job as Front-end developer, wish me luck!<br>📫 How to reach me: stefanoare@proton.me Linkedin: https://www.linkedin.com/in/stefanoare/
 
 
 ## 🌐 Socials:
