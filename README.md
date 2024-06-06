@@ -12,4 +12,6 @@ Hi there 👋<br>I am Stefano and...<br><br>🔭 At the moment I'm working on my
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iamstefano&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamstefano&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+![](https://www.codewars.com/users/iamstefano/badges/small)
+
 <!--![C#]<!--(https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) -->
