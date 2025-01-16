@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>I am Stefano and...<br><br>🔭 At the moment I'm working on my programming skills :) <br>🌱 I’m currently learning Typescript, C# and that crazy wormhole called 'Cloud Computing'.<br>⚡ I’m currently working for Avanade Italy as a Cloud engineer<br>📫 How to reach me: stefanoare@proton.me<br>Linkedin: https://www.linkedin.com/in/stefanoare/
+Hi there 👋<br>I am Stefano and...<br><br>🔭 At the moment I'm working on my programming skills :) <br>🌱 I’m currently learning Typescript, C# and that crazy wormhole called 'Cloud Computing'.<br>⚡ I’m currently working for Avanade Italy as a Cloud engineer.<br>📫 How to reach me: stefanoare@proton.me<br>Linkedin: https://www.linkedin.com/in/stefanoare/
 
 
 ## 🌐 Socials:
