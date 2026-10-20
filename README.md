@@ -1,6 +1,13 @@
-# 💫 About Me:
-Hi there 👋<br>I am Stefano and...<br><br>🔭 At the moment I'm working on my programming skills :) <br>🌱 I’m currently learning Typescript, C# and that crazy wormhole called 'Cloud Computing'.<br>⚡ I’m currently working for Avanade Italy as a Cloud engineer.<br>📫 How to reach me: stefanoare@proton.me<br>Linkedin: https://www.linkedin.com/in/stefanoare/
+### Hi, I'm Stefano 👋
 
+🔭 Cloud Engineer @ Avanade Italy  
+🌱 Exploring the sometimes-chaotic universe of **Cloud Computing**  
+🤖 Leveling up in **DevOps** and **AI** — already comfortable getting my hands dirty with automation, pipelines, and infrastructure, always learning something new  
+⚙️ Passionate about infrastructure, virtualization, Azure, and anything that can be automated  
+🛠️ Comfortable working with **Linux**, **Windows Server**, **Hyper-V**, **VMware**, **Docker**, and **Terraform**  
+🚀 Goals: build reliable, automated systems that (almost) run themselves, own a nice 4x4 off-roader, and own a beach house 
+ 
+📫 How to reach me: stefanoare@proton.me<br>Linkedin: https://www.linkedin.com/in/stefanoare/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefanoare/) 
